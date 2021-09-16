@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aniketsinha30
+- 👀 I’m interested in Machine Learning, Deep Learning, Data Structure
+- 🌱 I’m currently learning Machine Learning and Deep Learning. 
+- 💞️ I’m looking to collaborate on Machine learning related projects.
+- 📫 How to reach me asaniketsinha@gmail.com
